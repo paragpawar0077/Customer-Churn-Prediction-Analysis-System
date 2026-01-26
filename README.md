@@ -11,7 +11,7 @@ This project aims to predict customer churn and identify key factors that lead t
 - Provide business insights for customer retention
 
 ## 🧠 Project Status
-Phase 1 – Problem Understanding & Planning
+ Phase 3: Data Cleaning & EDA
 
 ## 🛠️ Tech Stack (Planned)
 - Python
@@ -22,8 +22,9 @@ Phase 1 – Problem Understanding & Planning
 
 ## 📂 Project Phases
 - Phase 1: Problem Understanding & Planning ✅
-- Phase 2: Data Cleaning & EDA
-- Phase 3: Feature Engineering
-- Phase 4: Model Building
-- Phase 5: Evaluation & Business Insights
+- phase 2: Data Analyzing & understanding ✅
+- Phase 3: Data Cleaning & EDA ✅
+- Phase 4: Feature Engineering
+- Phase 5: Model Building
+- Phase 6: Evaluation & Business Insights
 
