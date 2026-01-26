@@ -10,7 +10,7 @@ env/
 .ipynb_checkpoints/
 
 # Data files
-data/*.csv
+#data/*.csv
 
 # OS files
 .DS_Store
