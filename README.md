@@ -11,7 +11,7 @@ This project aims to predict customer churn and identify key factors that lead t
 - Provide business insights for customer retention
 
 ## 🧠 Project Status
-Currently working on Phase 4 – Feature Engineering
+Currently working on Phase 5- Model Building
 
 ## 🛠️ Tech Stack (Planned)
 - Python
@@ -24,7 +24,7 @@ Currently working on Phase 4 – Feature Engineering
 - Phase 1: Problem Understanding & Planning ✅
 - Phase 2: Data Analysis & Understanding ✅
 - Phase 3: Data Cleaning & EDA ✅
-- Phase 4: Feature Engineering
+- Phase 4: Feature Engineering ✅
 - Phase 5: Model Building
 - Phase 6: Evaluation & Business Insights
 
