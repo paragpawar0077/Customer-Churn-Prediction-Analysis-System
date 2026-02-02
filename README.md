@@ -3,17 +3,21 @@ Customer churn analysis with EDA, feature engineering, and ML models
 
 ## 📌 Project Overview
 Customer churn refers to customers leaving a service.  
-This project aims to predict customer churn and identify key factors that lead to customer loss using machine learning.
+This project focuses on predicting customer churn and analyzing key factors
+associated with customer loss using machine learning techniques.
 
 ## 🎯 Objectives
 - Predict whether a customer will churn
-- Analyze factors influencing churn
-- Provide business insights for customer retention
+- Analyze and interpret factors influencing churn
+- Evaluate model performance using appropriate classification metrics
+
 
 ## 🧠 Project Status
-Currently working on Phase 5- Model Building
+Project completed up to model evaluation and interpretation.
+The scope of this project is focused on data analysis, feature engineering,
+model building, and performance evaluation for customer churn prediction.
 
-## 🛠️ Tech Stack (Planned)
+## 🛠️ Tech Stack 
 - Python
 - Pandas, NumPy
 - Matplotlib, Seaborn
@@ -25,10 +29,21 @@ Currently working on Phase 5- Model Building
 - Phase 2: Data Analysis & Understanding ✅
 - Phase 3: Data Cleaning & EDA ✅
 - Phase 4: Feature Engineering ✅
-- Phase 5: Model Building
-- Phase 6: Evaluation & Business Insights
+- Phase 5: Model Building ✅
+- Phase 6: Model Evaluation & Interpretation ✅
 
-## 📊 Key Insights (So far)
-- Month-to-month contracts show higher churn
-- Customers with higher monthly charges are more likely to churn
-- Longer tenure correlates with lower churn
+## 📌 Project Scope & Limitations
+
+- The project focuses on predictive modeling and evaluation of customer churn
+- Business decision-making, retention cost modeling, and ROI simulation
+  are intentionally excluded
+- Results are intended to support analytical understanding rather than
+  direct business deployment
+
+
+## 📊 Key Insights
+
+- Customers on month-to-month contracts exhibit higher churn rates
+- Higher monthly charges are associated with increased churn likelihood
+- Longer customer tenure correlates with reduced churn probability
+
